@@ -15,16 +15,16 @@ PASS src/objects.test.ts
 PASS src/arrays.test.ts
 PASS src/nested.test.ts
 PASS src/components/StartAttempt.test.tsx
-PASS src/bad-components/ChooseTeam.test.tsx
 PASS src/components/TwoDice.test.tsx
+PASS src/bad-components/ChooseTeam.test.tsx
 PASS src/functions.test.ts
 PASS src/bad-components/DoubleHalf.test.tsx
 PASS src/components/ChangeType.test.tsx
 PASS src/components/CycleHoliday.test.tsx
 PASS src/components/Counter.test.tsx
 PASS src/components/RevealAnswer.test.tsx
-PASS src/bad-components/ColoredBox.test.tsx
 PASS src/bad-components/ShoveBox.test.tsx
+PASS src/bad-components/ColoredBox.test.tsx
 PASS src/App.test.tsx
 --------------------|---------|----------|---------|---------|-------------------
 File                | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
@@ -56,5 +56,5 @@ All files           |     100 |    98.48 |     100 |     100 |
 Test Suites: 15 passed, 15 total
 Tests:       110 passed, 110 total
 Snapshots:   0 total
-Time:        6.274 s
+Time:        6.318 s
 Ran all test suites.
